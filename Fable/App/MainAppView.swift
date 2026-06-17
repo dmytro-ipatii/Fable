@@ -11,7 +11,7 @@ struct MainAppView: View {
     var body: some View {
         VStack {
 
-            VStack {
+            VStack(spacing: Spacing.xLarge) {
                 Image(systemName: "globe")
                     .imageScale(.large)
                     .foregroundStyle(.tint)
@@ -20,24 +20,28 @@ struct MainAppView: View {
             }
             .padding(30)
             .background(
-                RoundedRectangle(cornerRadius: 15)
+                Shape.card
                     .fill(Gradient.skyLinear)
             )
 
-            Button(action: {}, label: {
-                HStack {
-                    Text("Continue")
-                        .foregroundStyle(.white)
-                }
-                .padding(.horizontal, 8)
-                .frame(minHeight: 50)
-                .frame(maxWidth: .infinity)
-                .background(
-                    RoundedRectangle(cornerRadius: 15)
-                        .fill(
-                            Gradient.accentLinear
-                        )
-                )
+            Button(
+                action: {
+                },
+                label: {
+                    HStack {
+                        Text("Continue")
+                            .foregroundStyle(.white)
+                    }
+                    .padding(.horizontal, 8)
+                    .frame(minHeight: 50)
+                    .frame(maxWidth: .infinity)
+                    .background(
+                        Shape.button
+                            .fill(
+                                Gradient.accentLinear
+                            )
+                    )
+                    
 
             })
 

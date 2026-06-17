@@ -10,10 +10,6 @@ import SwiftUI
 private struct GenerateGradient {
     let colors: [Color]
 
-    init(colors: [Color]) {
-        self.colors = colors
-    }
-
     func renderLinear(
         startPoint: UnitPoint = .top,
         endPoint: UnitPoint = .bottom
@@ -26,33 +22,33 @@ private struct GenerateGradient {
     }
 }
 
-struct Gradient {
+enum Gradient {
 
-    static var accentLinear: LinearGradient = GenerateGradient(
+    static let accentLinear: LinearGradient = GenerateGradient(
         colors: [.accentLight, .accent]
     ).renderLinear()
 
-    static var violetLinear: LinearGradient = GenerateGradient(
+    static let violetLinear: LinearGradient = GenerateGradient(
         colors: [.violetLight, .violetDark]
     ).renderLinear(startPoint: .topLeading, endPoint: .bottomTrailing)
 
-    static var skyLinear: LinearGradient = GenerateGradient(
+    static let skyLinear: LinearGradient = GenerateGradient(
         colors: [.skyLight, .skyDark]
     ).renderLinear(startPoint: .topLeading, endPoint: .bottomTrailing)
 
-    static var slateLinear: LinearGradient = GenerateGradient(
+    static let slateLinear: LinearGradient = GenerateGradient(
         colors: [.slateLight, .slateDark]
     ).renderLinear(startPoint: .topLeading, endPoint: .bottomTrailing)
 
-    static var roseLinear: LinearGradient = GenerateGradient(
+    static let roseLinear: LinearGradient = GenerateGradient(
         colors: [.roseLight, .roseDark]
     ).renderLinear(startPoint: .topLeading, endPoint: .bottomTrailing)
 
-    static var mintLinear: LinearGradient = GenerateGradient(
+    static let mintLinear: LinearGradient = GenerateGradient(
         colors: [.mintLight, .mintDark]
     ).renderLinear(startPoint: .topLeading, endPoint: .bottomTrailing)
 
-    static var mainLinear: LinearGradient = GenerateGradient(
+    static let mainLinear: LinearGradient = GenerateGradient(
         colors: [
             .peach,
             .customPink,
@@ -61,7 +57,7 @@ struct Gradient {
         ]
     ).renderLinear()
 
-    static var mainReversedLinear: LinearGradient = GenerateGradient(
+    static let mainReversedLinear: LinearGradient = GenerateGradient(
         colors: [
             .skyWash,
             .lavender,
@@ -70,7 +66,7 @@ struct Gradient {
         ]
     ).renderLinear()
 
-    static var settingsLinear: LinearGradient = GenerateGradient(
+    static let settingsLinear: LinearGradient = GenerateGradient(
         colors: [
             .lavender,
             .customPink,
@@ -78,7 +74,7 @@ struct Gradient {
         ]
     ).renderLinear()
 
-    static var chatLinear: LinearGradient = GenerateGradient(
+    static let chatLinear: LinearGradient = GenerateGradient(
         colors: [
             .skyWash.opacity(0.9),
             .lavender.opacity(0.9),
