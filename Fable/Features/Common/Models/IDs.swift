@@ -16,5 +16,3 @@ struct EntityID<Owner>: Hashable {
 }
 
 typealias UserID = EntityID<String>
-typealias ChatID = EntityID<Chat>
-typealias MessageID = EntityID<ChatMessage>

@@ -1,0 +1,149 @@
+{
+  "story": {
+    "id": "sherlock_holmes",
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "summary": "Sherlock Holmes is a brilliant consulting detective in Victorian London who solves seemingly impossible crimes through observation, logic, and deduction, aided by his friend and chronicler Dr. John Watson. Working from their lodgings at 221B Baker Street, the pair take on cases ranging from petty mysteries to confrontations with the criminal mastermind Professor Moriarty.",
+    "note": "The Sherlock Holmes canon is a collection of cases rather than one continuous story. Each chunk is a short, factual summary. The 'topics' field is for keyword retrieval; the 'characters' field lists who would know about the events, so you can filter to what the selected character could plausibly discuss. Holmes and Watson share almost all knowledge since Watson narrates the cases."
+  },
+  "chunks": [
+    {
+      "id": "who_is_sherlock_holmes",
+      "topics": ["sherlock", "holmes", "detective", "consulting detective", "genius", "reason", "character"],
+      "characters": ["sherlock", "watson", "mycroft", "lestrade", "mrs_hudson"],
+      "content": "Sherlock Holmes is the world's first and only 'consulting detective,' a profession he invented for himself. When the official police or private individuals are baffled, they bring their problems to him. He is tall, lean, and sharp-featured, with piercing eyes and an intense, restless mind. He solves crimes not through luck but through careful observation, logical reasoning, and vast specialized knowledge of crime."
+    },
+    {
+      "id": "method_of_deduction",
+      "topics": ["deduction", "observation", "reasoning", "method", "logic", "clues", "inference"],
+      "characters": ["sherlock", "watson"],
+      "content": "Holmes's central method is the science of deduction and observation. He insists that most people see but do not observe, missing the small details that reveal the truth. From tiny clues such as mud on a boot, calluses on a hand, or the wear of a coat sleeve, he reconstructs a person's history and circumstances. His guiding principle is that once the impossible is eliminated, whatever remains, however improbable, must be the truth."
+    },
+    {
+      "id": "how_holmes_met_watson",
+      "topics": ["watson", "meeting", "study in scarlet", "afghanistan", "roommate", "baker street", "first case"],
+      "characters": ["sherlock", "watson"],
+      "content": "Dr. John Watson was an army doctor invalided home after being wounded in the war in Afghanistan. Seeking affordable lodgings in London, he was introduced to Sherlock Holmes, who was also looking for someone to share rooms. At their first meeting Holmes astonished Watson by instantly deducing that he had come from Afghanistan. The two became flatmates at 221B Baker Street, and Watson soon became Holmes's companion and the chronicler of his cases."
+    },
+    {
+      "id": "baker_street",
+      "topics": ["221b", "baker street", "lodgings", "home", "sitting room", "setting", "london"],
+      "characters": ["sherlock", "watson", "mrs_hudson"],
+      "content": "Holmes and Watson share rooms at 221B Baker Street in London, cared for by their landlady Mrs. Hudson. The cluttered sitting room is the heart of their partnership, filled with Holmes's papers, chemical apparatus, and case files. Clients arrive there to lay their problems before the detective. It is from this base that Holmes conducts his investigations across Victorian London and beyond."
+    },
+    {
+      "id": "doctor_watson",
+      "topics": ["watson", "doctor", "chronicler", "narrator", "friend", "loyal", "companion"],
+      "characters": ["sherlock", "watson"],
+      "content": "Dr. John Watson is Holmes's closest friend, assistant, and biographer, narrating nearly all of the recorded cases. A brave and steady former military doctor, he provides Holmes with companionship, practical help, and a moral anchor. Though Holmes often teases him for failing to reason as sharply, he genuinely values Watson's loyalty and courage. Watson represents the reader's perspective, marveling at Holmes's deductions and asking the questions the audience wants answered."
+    },
+    {
+      "id": "mrs_hudson",
+      "topics": ["mrs hudson", "landlady", "baker street", "housekeeper", "tenant"],
+      "characters": ["sherlock", "watson", "mrs_hudson"],
+      "content": "Mrs. Hudson is the long-suffering landlady of 221B Baker Street. She tolerates Holmes's irregular hours, chemical experiments, tobacco smoke, indoor pistol practice, and the constant stream of unusual visitors. Despite his difficult habits, she holds a certain fondness and respect for her famous tenant. She is a steady, reliable presence in the background of Holmes and Watson's lives."
+    },
+    {
+      "id": "mycroft_holmes",
+      "topics": ["mycroft", "brother", "government", "diogenes club", "smarter", "sibling"],
+      "characters": ["sherlock", "watson", "mycroft"],
+      "content": "Mycroft Holmes is Sherlock's older brother, whom Sherlock considers to possess even greater powers of observation and deduction than his own. However, Mycroft lacks the energy and ambition to do detective work, preferring a settled routine. He holds a quiet but crucial position in the British government, sometimes described as being the government itself in certain matters. He spends much of his time at the Diogenes Club, a club for unsociable men where conversation is forbidden."
+    },
+    {
+      "id": "professor_moriarty",
+      "topics": ["moriarty", "napoleon of crime", "villain", "nemesis", "criminal mastermind", "professor"],
+      "characters": ["sherlock", "watson", "moriarty"],
+      "content": "Professor James Moriarty is Holmes's greatest adversary, a criminal mastermind Holmes calls the 'Napoleon of crime.' A respected former mathematics professor, Moriarty secretly organizes and controls much of the serious crime in London from the shadows, remaining above suspicion. Holmes regards him as an intellect equal to his own but turned to evil. Their conflict becomes a personal duel between two brilliant minds."
+    },
+    {
+      "id": "reichenbach_falls",
+      "topics": ["reichenbach", "final problem", "moriarty", "death", "waterfall", "switzerland", "struggle"],
+      "characters": ["sherlock", "watson", "moriarty"],
+      "content": "In their final confrontation, Holmes pursued Moriarty across Europe to the Reichenbach Falls in Switzerland. There the two enemies struggled at the edge of the roaring waterfall, and both were believed to have plunged to their deaths. Watson, discovering only a farewell note, mourned Holmes as dead and told the world his friend was gone. In truth Holmes survived, having used a form of wrestling to send only Moriarty over the edge."
+    },
+    {
+      "id": "the_return",
+      "topics": ["empty house", "return", "resurrection", "disguise", "watson shocked", "comeback", "three years"],
+      "characters": ["sherlock", "watson"],
+      "content": "After faking his death at Reichenbach, Holmes secretly traveled the world for three years to evade the remnants of Moriarty's gang. He eventually returned to London and revealed himself to a stunned Watson, at first disguised as an elderly book collector before dropping the disguise. Watson was overcome with shock and joy at finding his friend alive. Holmes then resumed his work, having outlived his greatest enemy."
+    },
+    {
+      "id": "irene_adler",
+      "topics": ["irene adler", "the woman", "scandal in bohemia", "outwitted holmes", "opera singer", "photograph"],
+      "characters": ["sherlock", "watson", "irene_adler"],
+      "content": "Irene Adler is one of the very few people ever to outwit Sherlock Holmes, and he forever afterward refers to her simply as 'the woman.' A clever and daring American opera singer, she was hired by a king to be blackmailed but turned the tables. When Holmes tried to recover a compromising photograph she held, she saw through his disguise, escaped, and left behind a letter proving she had bested him. Holmes kept her photograph as a reminder and held a lasting admiration for her intelligence."
+    },
+    {
+      "id": "inspector_lestrade",
+      "topics": ["lestrade", "scotland yard", "police", "inspector", "detective", "official"],
+      "characters": ["sherlock", "watson", "lestrade"],
+      "content": "Inspector Lestrade is a professional detective from Scotland Yard who frequently crosses paths with Holmes. Competent and dogged but limited in imagination, he often follows obvious but wrong conclusions until Holmes reveals the truth. Despite occasional rivalry, Lestrade comes to deeply respect Holmes's abilities and often calls on him for help. He represents the conventional official police against whom Holmes's genius stands out."
+    },
+    {
+      "id": "hound_of_the_baskervilles",
+      "topics": ["hound", "baskervilles", "dartmoor", "curse", "moor", "legend", "dog", "famous case"],
+      "characters": ["sherlock", "watson"],
+      "content": "One of Holmes's most famous cases concerned the Baskerville family, said to be haunted by a monstrous spectral hound on the bleak moors of Dartmoor. After a family member died mysteriously, Holmes was asked to protect the heir. Watson did much of the on-site investigation while Holmes worked secretly in the background. Holmes ultimately exposed the 'supernatural' hound as a real dog painted to glow, used by a scheming relative to murder his way to the family fortune."
+    },
+    {
+      "id": "study_in_scarlet_case",
+      "topics": ["study in scarlet", "first case", "murder", "revenge", "rache", "lestrade", "gregson"],
+      "characters": ["sherlock", "watson", "lestrade"],
+      "content": "The first case Watson witnessed involved a man found dead in an empty house with no wound but the word 'RACHE' written in blood on the wall. While the police puzzled over it, Holmes deduced the murder was an act of long-delayed revenge carried out by a cab driver. This case introduced Watson, and the reading public, to Holmes's astonishing deductive method for the first time."
+    },
+    {
+      "id": "sign_of_four_case",
+      "topics": ["sign of four", "treasure", "mary morstan", "watson marriage", "agra", "pearls"],
+      "characters": ["sherlock", "watson"],
+      "content": "In the case of the Sign of the Four, a young woman named Mary Morstan sought Holmes's help regarding mysterious pearls and a hidden treasure connected to her missing father. The investigation uncovered a tale of stolen Indian treasure, betrayal, and a pact among four conspirators. During the case Watson fell in love with Mary Morstan, and the two later married, a rare turn in Holmes's largely solitary world."
+    },
+    {
+      "id": "speckled_band_case",
+      "topics": ["speckled band", "snake", "stepfather", "murder", "locked room", "roylott", "will"],
+      "characters": ["sherlock", "watson"],
+      "content": "A terrified young woman came to Holmes after her sister died gasping about a 'speckled band,' fearing she would be next. Holmes discovered that the women's greedy stepfather was murdering his stepdaughters to keep control of their inheritance. His method was to send a trained venomous snake through a ventilator into the victim's room at night. Holmes turned the deadly snake back on the murderer, who died by his own weapon."
+    },
+    {
+      "id": "red_headed_league_case",
+      "topics": ["red-headed league", "bank robbery", "disguise", "clever scheme", "tunnel", "distraction"],
+      "characters": ["sherlock", "watson"],
+      "content": "A red-haired pawnbroker was hired by a strange 'Red-Headed League' to do pointless copying work for generous pay, only for the League to suddenly vanish. Holmes realized the whole absurd arrangement was a ruse to lure the man out of his shop each day. The real plan was for a criminal, working as the man's assistant, to dig a tunnel from the shop's cellar into the vault of a neighboring bank. Holmes foiled the robbery by waiting in the vault to catch the thieves."
+    },
+    {
+      "id": "holmes_habits_and_lifestyle",
+      "topics": ["violin", "pipe", "tobacco", "cocaine", "boredom", "eccentric", "habits", "bohemian"],
+      "characters": ["sherlock", "watson"],
+      "content": "Holmes lives an irregular, bohemian life driven by the needs of his mind. He plays the violin to think, smokes a pipe heavily, and conducts chemical experiments at all hours. When no interesting case occupies him, he sinks into boredom and restlessness, and in low moments turns to stimulants, a habit Watson strongly disapproves of. He cares little for social convention, food, or rest when a problem grips his attention."
+    },
+    {
+      "id": "holmes_disguises",
+      "topics": ["disguise", "acting", "master of disguise", "impersonation", "undercover"],
+      "characters": ["sherlock", "watson"],
+      "content": "Holmes is a master of disguise and acting, able to transform himself so completely that even Watson fails to recognize him. He has appeared as an old woman, a drunken groom, an elderly bookseller, and a common loafer to gather information unnoticed. He considers that the world lost a fine actor when he chose to become a detective. These disguises allow him to move through all levels of London society and observe suspects without alarming them."
+    },
+    {
+      "id": "baker_street_irregulars",
+      "topics": ["irregulars", "street children", "informants", "spies", "wiggins", "helpers"],
+      "characters": ["sherlock", "watson"],
+      "content": "Holmes employs a band of ragged street children he calls the Baker Street Irregulars as his eyes and ears across London. Led by a boy named Wiggins, they can go anywhere, see everything, and overhear conversations without being noticed by anyone. Holmes pays them a small wage and uses them to track suspects and gather information that the police could never obtain. He values their reach far more than that of the official force."
+    },
+    {
+      "id": "holmes_knowledge_and_limits",
+      "topics": ["knowledge", "specialized", "ignorance", "astronomy", "chemistry", "limits", "focus"],
+      "characters": ["sherlock", "watson"],
+      "content": "Holmes's knowledge is deep but deliberately narrow, focused entirely on what is useful for detection. He is an expert in chemistry, anatomy, poisons, tobacco ashes, footprints, and the history of crime. Yet he professes ignorance of things he considers useless, once claiming not to care whether the earth goes around the sun, since such facts do not help him solve cases. He compares the mind to an attic that should be stocked only with useful tools."
+    },
+    {
+      "id": "dancing_men_ciphers",
+      "topics": ["dancing men", "cipher", "code", "cryptography", "secret message", "puzzle"],
+      "characters": ["sherlock", "watson"],
+      "content": "Holmes is skilled at breaking codes and ciphers, as shown in the case of the Dancing Men. A client was frightened by mysterious drawings of little stick figures appearing around his home. Holmes recognized the figures as a secret cipher and decoded them, discovering they were threatening messages from a dangerous man out of his wife's past. He wrote a study on secret writing and took pride in solving such puzzles."
+    },
+    {
+      "id": "holmes_and_justice",
+      "topics": ["justice", "mercy", "morality", "law", "letting go", "conscience", "judgment"],
+      "characters": ["sherlock", "watson"],
+      "content": "Though Holmes serves the cause of justice, he does not blindly serve the law. On several occasions, when he judged a criminal to be morally justified or already punished enough by circumstances, he chose to let them go free rather than hand them to the police. He sometimes acts as judge himself, weighing the truth of a situation against strict legality. This shows that beneath his cold logic lies a strong personal sense of right and wrong."
+    }
+  ]
+}

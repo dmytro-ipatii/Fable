@@ -1,0 +1,125 @@
+{
+  "story": {
+    "id": "wizard_of_oz",
+    "title": "The Wonderful Wizard of Oz",
+    "author": "L. Frank Baum",
+    "summary": "A Kansas farm girl named Dorothy is swept away by a cyclone to the magical land of Oz, where her house lands on and kills a wicked witch. To find her way home, she follows a road of yellow brick to the Emerald City to seek help from the mysterious Wizard, gathering three companions along the way: a Scarecrow who wants brains, a Tin Woodman who wants a heart, and a Cowardly Lion who wants courage.",
+    "note": "This file is based on L. Frank Baum's original 1900 novel, NOT the 1939 film. Key difference: Dorothy wears SILVER SHOES, not ruby slippers, and it is the silver shoes' magic that carries her home. Each chunk is a short, factual summary. The 'topics' field is for keyword retrieval; the 'characters' field lists who is present or would know about the events, so you can filter to what the selected character could plausibly discuss. Dorothy appears in nearly every chunk since the story follows her journey."
+  },
+  "chunks": [
+    {
+      "id": "who_is_dorothy",
+      "topics": ["dorothy", "kansas", "girl", "toto", "farm", "protagonist", "character"],
+      "characters": ["dorothy"],
+      "content": "Dorothy is a kind, brave, and practical young girl who lives on a bleak gray farm in Kansas with her Aunt Em and Uncle Henry. Her constant companion is her little black dog, Toto, whom she loves dearly. Though gentle and polite, she is resourceful and steady in the face of danger. Her single-minded wish throughout the story is simply to return home to her family, no matter how wonderful Oz may be."
+    },
+    {
+      "id": "the_cyclone",
+      "topics": ["cyclone", "tornado", "kansas", "house", "storm", "beginning", "toto"],
+      "characters": ["dorothy"],
+      "content": "The adventure begins when a great cyclone sweeps across the Kansas prairie. Dorothy fails to reach the storm cellar in time and is trapped inside the farmhouse with Toto as the whirlwind lifts the entire house into the air. The house is carried for hours through the sky before finally settling down gently in a strange and colorful new land. Dorothy steps outside to discover she is no longer in Kansas."
+    },
+    {
+      "id": "landing_in_oz",
+      "topics": ["munchkins", "wicked witch of the east", "silver shoes", "landing", "house falls", "munchkin land"],
+      "characters": ["dorothy", "good_witch_north"],
+      "content": "Dorothy's house lands squarely on the Wicked Witch of the East, killing her instantly and freeing the little people called Munchkins from her cruel rule. The grateful Munchkins and the Good Witch of the North welcome Dorothy as a heroine. The dead witch's magical Silver Shoes are given to Dorothy, though no one yet knows their power. The Good Witch of the North kisses Dorothy's forehead, leaving a protective mark that keeps her safe on her journey."
+    },
+    {
+      "id": "the_yellow_brick_road",
+      "topics": ["yellow brick road", "emerald city", "journey", "directions", "path", "quest begins"],
+      "characters": ["dorothy", "good_witch_north"],
+      "content": "The Good Witch of the North tells Dorothy that only the great Wizard of Oz, who lives in the Emerald City, might have the power to send her home. To reach him, Dorothy must follow the road paved with yellow brick. She sets off alone with Toto, wearing the Silver Shoes, on the long walk toward the distant Emerald City. Along the way she will meet the companions who join her quest."
+    },
+    {
+      "id": "the_scarecrow",
+      "topics": ["scarecrow", "brains", "straw", "pole", "cornfield", "companion", "thinking"],
+      "characters": ["dorothy", "scarecrow"],
+      "content": "Dorothy's first companion is a living Scarecrow she finds propped on a pole in a cornfield. He longs above all for brains, believing his straw-stuffed head to be empty and himself to be a fool. Ironically, throughout the journey the Scarecrow repeatedly comes up with the cleverest ideas and solutions of the whole group. He joins Dorothy hoping the Wizard will grant him the intelligence he thinks he lacks."
+    },
+    {
+      "id": "the_tin_woodman",
+      "topics": ["tin woodman", "heart", "rust", "axe", "love", "companion", "woodcutter"],
+      "characters": ["dorothy", "tin_woodman"],
+      "content": "Next Dorothy meets the Tin Woodman, a man made entirely of tin, whom she finds frozen in place because his joints have rusted. Once oiled and freed, he tells how he was gradually replaced piece by piece with tin until he lost his heart and, with it, the ability to love. He wishes more than anything for a new heart. Yet along the way he proves to be the most tender and compassionate of the group, weeping at the smallest cruelty."
+    },
+    {
+      "id": "the_cowardly_lion",
+      "topics": ["cowardly lion", "courage", "brave", "fear", "king of beasts", "companion", "lion"],
+      "characters": ["dorothy", "cowardly_lion"],
+      "content": "The last companion to join is a great Lion who bursts from the forest roaring, but is revealed to be a coward who is ashamed of his own fearfulness. He believes a true king of beasts should be brave and hopes the Wizard can give him courage. Despite calling himself a coward, the Lion faces every danger on the road to protect his friends. His journey shows that true courage means acting bravely in spite of fear."
+    },
+    {
+      "id": "dangers_on_the_road",
+      "topics": ["kalidahs", "ravine", "poppy field", "river", "dangers", "obstacles", "journey"],
+      "characters": ["dorothy", "scarecrow", "tin_woodman", "cowardly_lion"],
+      "content": "The companions face many dangers on their way to the Emerald City. They cross deep ravines guarded by fierce beasts called Kalidahs, which have the bodies of bears and the heads of tigers. They are nearly overcome by a deadly field of sleep-inducing poppies, from which the Lion and Toto must be rescued. Through teamwork, the Scarecrow's cleverness, the Tin Woodman's care, and the Lion's strength, they survive each trial together."
+    },
+    {
+      "id": "the_emerald_city",
+      "topics": ["emerald city", "green", "guardian of the gates", "spectacles", "palace", "arrival"],
+      "characters": ["dorothy", "scarecrow", "tin_woodman", "cowardly_lion"],
+      "content": "At last the travelers reach the dazzling Emerald City, where the Guardian of the Gates fits each of them with green-tinted spectacles, claiming the city's brightness would otherwise blind them. Everything inside gleams a brilliant green. They are granted an audience with the Wizard, but each is made to enter his throne room alone. The Wizard appears to each of them in a completely different and frightening form."
+    },
+    {
+      "id": "the_wizards_bargain",
+      "topics": ["wizard", "bargain", "kill witch", "wicked witch of the west", "task", "condition"],
+      "characters": ["dorothy", "scarecrow", "tin_woodman", "cowardly_lion", "wizard"],
+      "content": "The Wizard agrees to grant each traveler's wish, but only on one condition: they must first kill the Wicked Witch of the West, who rules the western land of the Winkies. Frightened but seeing no other choice, the four companions set out to do as he asks. None of them truly wishes to kill anyone, but Dorothy is desperate to get home. The task sends them into the most dangerous part of their entire journey."
+    },
+    {
+      "id": "wicked_witch_of_the_west",
+      "topics": ["wicked witch of the west", "winged monkeys", "winkies", "one eye", "enslaved", "capture"],
+      "characters": ["dorothy", "scarecrow", "tin_woodman", "cowardly_lion", "wicked_witch_west"],
+      "content": "The Wicked Witch of the West is a cruel and powerful sorceress with a single all-seeing eye and a fear of the dark and of water. Seeing the travelers approach, she sends wolves, crows, bees, and finally her enslaved Winged Monkeys to destroy them. The Monkeys scatter the group, break the Scarecrow and Tin Woodman, and deliver Dorothy and the Lion to the witch. The witch forces Dorothy to work as a servant and schemes to steal her powerful Silver Shoes."
+    },
+    {
+      "id": "melting_the_witch",
+      "topics": ["water", "melting", "bucket", "witch dies", "silver shoes", "victory", "escape"],
+      "characters": ["dorothy", "wicked_witch_west"],
+      "content": "The witch manages to trick Dorothy out of one Silver Shoe, and Dorothy, furious, throws a bucket of water over her. To Dorothy's astonishment, the water causes the Wicked Witch of the West to melt away completely into nothing. Water is the one thing that can destroy her, a secret she had guarded for years. With the witch gone, the Winkies are freed and joyfully help Dorothy repair the Scarecrow and Tin Woodman and reunite the group."
+    },
+    {
+      "id": "the_wizard_exposed",
+      "topics": ["wizard exposed", "humbug", "balloon", "omaha", "fraud", "curtain", "man behind curtain"],
+      "characters": ["dorothy", "scarecrow", "tin_woodman", "cowardly_lion", "wizard"],
+      "content": "When the travelers return in triumph, Toto knocks over a screen to reveal that the great and terrible Wizard is really an ordinary old man from Omaha. He confesses he is a humbug with no magic at all, having arrived in Oz long ago by runaway hot-air balloon and let the people believe he was a powerful wizard. All his frightening appearances were tricks and illusions. He is ashamed but kindly, and admits he has been a very bad wizard though he tries to be a good man."
+    },
+    {
+      "id": "the_gifts",
+      "topics": ["brains", "heart", "courage", "gifts", "wizard grants wishes", "placebo", "confidence"],
+      "characters": ["dorothy", "scarecrow", "tin_woodman", "cowardly_lion", "wizard"],
+      "content": "Though he has no real magic, the Wizard cleverly gives the companions what they ask for. He fills the Scarecrow's head with bran and pins to represent brains, places a silk heart stuffed with sawdust in the Tin Woodman's chest, and gives the Lion a drink he calls courage. In truth, each of them already possessed the quality they wanted all along, and the Wizard's gifts simply give them the confidence to believe it. The story suggests that wisdom, love, and bravery come from within."
+    },
+    {
+      "id": "wizard_leaves",
+      "topics": ["balloon", "wizard leaves", "dorothy left behind", "escape", "toto", "accident"],
+      "characters": ["dorothy", "scarecrow", "wizard"],
+      "content": "The Wizard decides to leave Oz and return to his old life by rebuilding his hot-air balloon, offering to take Dorothy home with him. He also names the Scarecrow to rule the Emerald City in his absence. But at the moment of departure, Toto leaps from Dorothy's arms to chase a kitten, and by the time she catches him the balloon has drifted away without her. The Wizard sails off into the sky, and Dorothy is left behind, still unable to get home."
+    },
+    {
+      "id": "journey_to_glinda",
+      "topics": ["glinda", "good witch of the south", "quiver", "second journey", "china country", "hammer-heads"],
+      "characters": ["dorothy", "scarecrow", "tin_woodman", "cowardly_lion", "glinda"],
+      "content": "Told that the Good Witch of the South, Glinda, might be able to help her, Dorothy sets out on a second journey with her three companions to find her. They pass through more strange lands, including a country made entirely of living china people and a forest where the Lion defeats a monstrous spider, and cross a hill guarded by the fierce Hammer-Heads. At last they reach Glinda's beautiful palace in the south. Glinda is a kind and lovely sorceress who greets them warmly."
+    },
+    {
+      "id": "silver_shoes_home",
+      "topics": ["silver shoes", "home", "kansas", "three steps", "magic", "glinda reveals", "ending"],
+      "characters": ["dorothy", "glinda"],
+      "content": "Glinda reveals the secret Dorothy never knew: the Silver Shoes she has worn the whole time have the power to carry her anywhere in the world in three steps. Dorothy could have gone home the very day she arrived in Oz. After tearful goodbyes to her beloved companions, Dorothy knocks the heels of the shoes together three times and wishes to return to Kansas. She is instantly whisked through the air back home, though the Silver Shoes fall off and are lost forever during the flight."
+    },
+    {
+      "id": "companions_destinies",
+      "topics": ["scarecrow ruler", "tin woodman winkies", "lion king", "endings", "rulers", "destinies"],
+      "characters": ["scarecrow", "tin_woodman", "cowardly_lion", "glinda"],
+      "content": "With Glinda's help, each of Dorothy's companions receives a worthy future. The Scarecrow returns to rule the Emerald City in the Wizard's place. The Tin Woodman is invited to rule over the Winkies in the west, who had grown to love him after he freed them. The Cowardly Lion becomes king of the beasts in a great forest, having proven his courage many times over. Each finds a home and a purpose suited to the very qualities they once believed they lacked."
+    },
+    {
+      "id": "back_in_kansas",
+      "topics": ["kansas", "aunt em", "home", "reunion", "ending", "farm", "toto"],
+      "characters": ["dorothy"],
+      "content": "Dorothy lands back on the Kansas prairie and runs into the arms of her Aunt Em, who is overjoyed to find the child she feared lost. Toto is safely with her, and she is home at last, which was all she ever wanted. The great adventure in Oz is over, but Dorothy has returned safe and happy to the family and farm she loves."
+    }
+  ]
+}

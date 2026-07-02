@@ -1,0 +1,191 @@
+{
+  "story": {
+    "id": "lord_of_the_rings",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "summary": "A hobbit named Frodo Baggins inherits a powerful ring and must journey across Middle-earth to destroy it in the fires of Mount Doom, the only place it can be unmade, before the Dark Lord Sauron reclaims it and conquers the free peoples of the world.",
+    "note": "Each chunk is a short, factual plot summary. The 'topics' field is for keyword retrieval; the 'characters' field lists who experienced or would know about the events, so you can filter chunks to what the selected character could plausibly discuss."
+  },
+  "chunks": [
+    {
+      "id": "shire_and_ring_inheritance",
+      "topics": ["shire", "bag end", "bilbo", "birthday", "ring", "hobbits", "inheritance"],
+      "characters": ["frodo", "bilbo", "gandalf", "sam"],
+      "content": "Frodo Baggins was a hobbit who lived at Bag End in the Shire, a peaceful farming land in the northwest of Middle-earth. He was the adopted heir of his older cousin Bilbo Baggins. At Bilbo's eleventy-first (111th) birthday party, Bilbo used a magic ring to vanish in front of the guests and then left the Shire for good, leaving the ring and Bag End to Frodo. Gandalf, a wizard and old friend of the family, was uneasy about the ring from the start."
+    },
+    {
+      "id": "nature_of_the_one_ring",
+      "topics": ["ring", "one ring", "sauron", "power", "mordor", "invisible", "corruption"],
+      "characters": ["frodo", "gandalf", "bilbo", "sam", "aragorn", "galadriel", "boromir"],
+      "content": "The ring Bilbo left to Frodo was the One Ring, forged in secret ages earlier by the Dark Lord Sauron to control all the other Rings of Power and dominate Middle-earth. It made its wearer invisible but slowly corrupted them, prolonging life while wearing the spirit thin. Sauron had poured much of his own power and will into it, so while it existed he could never be fully defeated. The Ring had a will of its own and sought to return to its master."
+    },
+    {
+      "id": "gandalf_reveals_the_danger",
+      "topics": ["gandalf", "fire", "inscription", "shire", "warning", "flee", "ring revealed"],
+      "characters": ["frodo", "gandalf"],
+      "content": "Years after Bilbo's departure, Gandalf returned and confirmed his fears by casting Frodo's ring into the fire, revealing a glowing elvish inscription that marked it as the One Ring. He explained that Sauron had learned the Ring survived and was hunting for it, and that servants of the enemy would come to the Shire. Gandalf told Frodo he had to leave his home and carry the Ring away to keep the Shire safe."
+    },
+    {
+      "id": "leaving_shire_black_riders",
+      "topics": ["shire", "black riders", "nazgul", "ringwraiths", "flight", "sam", "merry", "pippin"],
+      "characters": ["frodo", "sam", "merry", "pippin"],
+      "content": "Frodo set out from the Shire with his loyal gardener Samwise Gamgee and his younger cousins Merry Brandybuck and Pippin Took. They were pursued by the Black Riders, also called the Nazgul or Ringwraiths, nine terrifying servants of Sauron who had once been men corrupted by rings of power. The hobbits narrowly escaped them several times on the road, hiding and traveling off the main paths."
+    },
+    {
+      "id": "bree_and_strider",
+      "topics": ["bree", "prancing pony", "strider", "aragorn", "ranger", "inn", "meeting aragorn"],
+      "characters": ["frodo", "sam", "merry", "pippin", "aragorn"],
+      "content": "At the village of Bree, the hobbits stayed at an inn called The Prancing Pony, where they met a weathered ranger known as Strider. He was in truth Aragorn, a descendant of ancient kings and an ally of Gandalf. Aragorn became their guide and protector, leading them away from the danger of the Black Riders and toward the elvish refuge of Rivendell."
+    },
+    {
+      "id": "weathertop_frodo_wounded",
+      "topics": ["weathertop", "amon sul", "morgul blade", "frodo wounded", "nazgul attack", "knife"],
+      "characters": ["frodo", "sam", "merry", "pippin", "aragorn"],
+      "content": "On a hill called Weathertop, the Black Riders attacked in the night. Their leader, the Witch-king, stabbed Frodo in the shoulder with a cursed Morgul blade, leaving a fragment that slowly worked toward his heart and threatened to turn him into a wraith. Aragorn drove the Riders off with fire, and the company raced toward Rivendell to save Frodo before the wound overcame him."
+    },
+    {
+      "id": "rivendell_and_healing",
+      "topics": ["rivendell", "elrond", "healing", "arwen", "elves", "refuge", "ford of bruinen"],
+      "characters": ["frodo", "sam", "merry", "pippin", "aragorn", "gandalf", "bilbo"],
+      "content": "Frodo reached Rivendell, the house of the elf-lord Elrond, where he was healed of his Morgul wound. There he was reunited with Gandalf and with Bilbo, who had settled there in his old age. Rivendell was a place of safety, learning, and rest, and it was where representatives of the free peoples soon gathered to decide the fate of the Ring."
+    },
+    {
+      "id": "council_of_elrond_fellowship_formed",
+      "topics": ["council of elrond", "fellowship", "rivendell", "decision", "nine walkers", "quest begins"],
+      "characters": ["frodo", "sam", "merry", "pippin", "aragorn", "gandalf", "legolas", "gimli", "boromir"],
+      "content": "At the Council of Elrond, the wise decided the One Ring could not be used or hidden, only destroyed by casting it into the fire of Mount Doom in Mordor where it was made. Frodo volunteered to carry the Ring. A Fellowship of nine companions was formed to protect him: Frodo, Sam, Merry, and Pippin (all hobbits), Gandalf the wizard, Aragorn and Boromir (both men), Legolas the elf, and Gimli the dwarf."
+    },
+    {
+      "id": "fellowship_members",
+      "topics": ["fellowship", "companions", "nine walkers", "members", "legolas", "gimli", "boromir"],
+      "characters": ["frodo", "sam", "merry", "pippin", "aragorn", "gandalf", "legolas", "gimli", "boromir"],
+      "content": "The nine members of the Fellowship represented the free peoples united against Sauron. Aragorn was the heir of Isildur and rightful king of Gondor. Boromir was a proud warrior and son of the Steward of Gondor. Legolas was an elf prince of the Woodland Realm, and Gimli a dwarf whose people and the elves had a long history of mistrust; the two became close friends over the journey."
+    },
+    {
+      "id": "moria_and_the_balrog",
+      "topics": ["moria", "khazad-dum", "balrog", "gandalf falls", "mines", "bridge", "durin's bane"],
+      "characters": ["frodo", "sam", "merry", "pippin", "aragorn", "gandalf", "legolas", "gimli", "boromir"],
+      "content": "Blocked from crossing the mountains, the Fellowship passed through the underground dwarf-kingdom of Moria, long abandoned and overrun by orcs. In its depths they awoke a Balrog, an ancient demon of fire and shadow. Gandalf confronted the Balrog on the Bridge of Khazad-dum and broke the bridge, but the creature dragged him down into the abyss as he fell. The grieving Fellowship believed Gandalf was dead."
+    },
+    {
+      "id": "lothlorien_and_galadriel",
+      "topics": ["lothlorien", "galadriel", "elves", "mirror", "gifts", "golden wood", "celeborn"],
+      "characters": ["frodo", "sam", "merry", "pippin", "aragorn", "legolas", "gimli", "boromir"],
+      "content": "The Fellowship found refuge in Lothlorien, an elven forest ruled by the Lady Galadriel and Lord Celeborn. Galadriel was one of the most powerful and ancient elves in Middle-earth. She tested Frodo, showed him visions in her mirror, and gave the companions gifts to aid their journey, including a phial of light for Frodo. Frodo offered her the Ring, but she refused its temptation and chose to remain herself."
+    },
+    {
+      "id": "breaking_of_the_fellowship",
+      "topics": ["amon hen", "boromir", "fellowship breaks", "frodo leaves", "temptation", "orcs", "separation"],
+      "characters": ["frodo", "sam", "merry", "pippin", "aragorn", "legolas", "gimli", "boromir"],
+      "content": "At Amon Hen, Boromir was overcome by the Ring's temptation and tried to take it from Frodo by force. Frightened, Frodo put on the Ring and slipped away, resolving to continue to Mordor alone. The Fellowship was broken: Boromir was slain by orcs while defending Merry and Pippin, who were captured; Sam refused to let Frodo go alone and followed him; and Aragorn, Legolas, and Gimli set off to rescue the captured hobbits."
+    },
+    {
+      "id": "frodo_sam_and_gollum",
+      "topics": ["frodo", "sam", "gollum", "smeagol", "mordor", "guide", "emyn muil", "dead marshes"],
+      "characters": ["frodo", "sam"],
+      "content": "Frodo and Sam pressed on toward Mordor alone through harsh, trackless lands. They captured Gollum, a wretched creature who had owned the Ring for centuries and was twisted by it into a shadow of the hobbit he once was, named Smeagol. Frodo pitied Gollum and made him a guide, trusting the flicker of good still left in him, while Sam remained deeply suspicious. Gollum was torn between loyalty to Frodo and his obsessive craving for the Ring, which he called his 'precious.'"
+    },
+    {
+      "id": "gandalf_the_white_returns",
+      "topics": ["gandalf", "gandalf the white", "return", "reborn", "fangorn", "resurrection"],
+      "characters": ["aragorn", "legolas", "gimli", "gandalf"],
+      "content": "Gandalf did not truly die in Moria. After destroying the Balrog in a long battle, he passed through death and was sent back with greater power as Gandalf the White. He reunited with Aragorn, Legolas, and Gimli in Fangorn Forest as they searched for the hobbits. He now openly took up the task of rallying the free peoples against Sauron."
+    },
+    {
+      "id": "rohan_and_theoden",
+      "topics": ["rohan", "theoden", "wormtongue", "riders", "horse-lords", "edoras", "saruman influence"],
+      "characters": ["aragorn", "legolas", "gimli", "gandalf", "merry", "pippin"],
+      "content": "The kingdom of Rohan was a land of horse-lords whose king, Theoden, had been weakened and manipulated by his corrupt advisor Grima Wormtongue, a servant of the wizard Saruman. Gandalf freed Theoden from this influence and restored him to strength. Rohan then prepared to defend itself against Saruman's armies. Theoden's niece Eowyn longed to fight rather than be left behind."
+    },
+    {
+      "id": "helms_deep",
+      "topics": ["helm's deep", "battle", "rohan", "uruk-hai", "saruman army", "siege"],
+      "characters": ["aragorn", "legolas", "gimli", "gandalf", "theoden"],
+      "content": "Saruman sent a great army of orcs and Uruk-hai against Rohan. Theoden's people took refuge in the mountain fortress of Helm's Deep, where they endured a desperate night siege. Just as the defenders were about to be overwhelmed, Gandalf arrived at dawn with reinforcements, breaking the enemy army and saving Rohan."
+    },
+    {
+      "id": "ents_and_isengard",
+      "topics": ["ents", "treebeard", "isengard", "saruman", "fangorn", "merry", "pippin", "orthanc"],
+      "characters": ["merry", "pippin", "gandalf", "aragorn", "legolas", "gimli"],
+      "content": "Merry and Pippin escaped their orc captors into Fangorn Forest, where they met Treebeard, the eldest of the Ents, ancient tree-like shepherds of the forest. Roused to anger by Saruman's destruction of the trees around his tower, the Ents marched on Isengard and destroyed it, trapping Saruman in his tower of Orthanc. This broke Saruman's power in the war."
+    },
+    {
+      "id": "gondor_and_minas_tirith",
+      "topics": ["gondor", "minas tirith", "denethor", "faramir", "steward", "white city", "pippin"],
+      "characters": ["pippin", "gandalf", "aragorn", "faramir"],
+      "content": "Gondor was the great southern kingdom of men and the chief bulwark against Mordor, ruled in the king's absence by the Steward Denethor from the white city of Minas Tirith. Denethor was proud and increasingly despairing, and he favored his late son Boromir over his surviving son Faramir. Gandalf and Pippin traveled to Minas Tirith to help prepare its defense as Sauron's assault loomed."
+    },
+    {
+      "id": "faramir_meets_frodo",
+      "topics": ["faramir", "frodo", "sam", "ithilien", "temptation resisted", "gollum", "forbidden pool"],
+      "characters": ["frodo", "sam", "faramir"],
+      "content": "In the wilderness of Ithilien, Frodo and Sam were captured by a company of Gondorian rangers led by Faramir, brother of the fallen Boromir. Unlike his brother, Faramir resisted the temptation of the Ring when he learned Frodo carried it, and chose to let the hobbits continue their quest. His wisdom and restraint stood in contrast to Boromir's fatal desire."
+    },
+    {
+      "id": "shelob_and_cirith_ungol",
+      "topics": ["shelob", "spider", "cirith ungol", "frodo captured", "sam", "phial", "sting", "betrayal"],
+      "characters": ["frodo", "sam"],
+      "content": "Gollum led Frodo and Sam into a mountain pass guarded by Shelob, a monstrous ancient spider, betraying the hobbits in a final bid to reclaim the Ring. Shelob stung Frodo, who fell paralyzed and appeared dead. Believing Frodo gone, Sam took the Ring to continue the quest himself, but then discovered Frodo was alive and had been captured by orcs into the tower of Cirith Ungol. Sam fought his way in to rescue him."
+    },
+    {
+      "id": "battle_pelennor_fields",
+      "topics": ["pelennor fields", "minas tirith", "battle", "witch-king", "eowyn", "merry", "theoden", "rohan charge"],
+      "characters": ["aragorn", "gandalf", "eowyn", "merry", "theoden", "pippin"],
+      "content": "Sauron's armies besieged Minas Tirith in the great Battle of the Pelennor Fields. King Theoden led the Riders of Rohan in a charge to relieve the city but was slain by the Witch-king, lord of the Nazgul. Eowyn, who had ridden to war in disguise, and the hobbit Merry together killed the Witch-king, fulfilling a prophecy that no man could slay him. Aragorn then arrived with reinforcements by ship, turning the tide of the battle."
+    },
+    {
+      "id": "aragorn_claims_kingship_path",
+      "topics": ["aragorn", "paths of the dead", "army of the dead", "anduril", "king", "return"],
+      "characters": ["aragorn", "legolas", "gimli"],
+      "content": "To reach the battle in time, Aragorn took the perilous Paths of the Dead and summoned an army of oath-breaking ghosts to fight for him, releasing them from their curse once they had helped defeat Sauron's forces. Bearing the reforged sword Anduril, Aragorn began to claim openly his identity as the returning heir to Gondor's throne. His arrival at the Pelennor Fields was decisive."
+    },
+    {
+      "id": "black_gate_diversion",
+      "topics": ["black gate", "morannon", "diversion", "aragorn", "gandalf", "last battle", "distraction"],
+      "characters": ["aragorn", "gandalf", "legolas", "gimli", "pippin", "merry"],
+      "content": "To give Frodo a chance to reach Mount Doom unnoticed, Aragorn and Gandalf led the remaining armies of the West to the Black Gate of Mordor as a deliberate diversion. Vastly outnumbered, they sought to draw Sauron's attention and forces away from the interior of his land. It was a desperate gamble made to buy time for the Ring-bearer."
+    },
+    {
+      "id": "mount_doom_ring_destroyed",
+      "topics": ["mount doom", "orodruin", "ring destroyed", "gollum", "frodo claims ring", "sam", "cracks of doom"],
+      "characters": ["frodo", "sam"],
+      "content": "Sam carried an exhausted Frodo up the slopes of Mount Doom when he could no longer walk. At the edge of the fire, the Ring's power overcame Frodo at last, and he claimed it for himself instead of destroying it. Gollum attacked, bit the Ring from Frodo's finger, and in his triumph fell into the fire with it. The Ring was unmade, and Sauron's power was destroyed forever."
+    },
+    {
+      "id": "fall_of_sauron",
+      "topics": ["sauron defeated", "victory", "eagles", "rescue", "mordor collapses", "end of war"],
+      "characters": ["frodo", "sam", "gandalf", "aragorn"],
+      "content": "With the One Ring destroyed, Sauron's spirit was broken and could never take form again, and his armies and works crumbled. Gandalf sent great eagles to rescue Frodo and Sam from the erupting slopes of Mount Doom. The long war against the Dark Lord was won, and the free peoples celebrated their survival."
+    },
+    {
+      "id": "return_of_the_king",
+      "topics": ["aragorn", "king", "coronation", "arwen", "gondor", "wedding", "reunion"],
+      "characters": ["aragorn", "frodo", "sam", "merry", "pippin", "gandalf", "legolas", "gimli"],
+      "content": "Aragorn was crowned King of Gondor, uniting the kingdoms of men and beginning an age of renewal. He married Arwen, Elrond's daughter, who had chosen a mortal life to be with him. The hobbits were honored as heroes, and the surviving members of the Fellowship were reunited in joy before slowly going their separate ways."
+    },
+    {
+      "id": "scouring_of_the_shire",
+      "topics": ["shire", "scouring", "saruman", "home", "return", "sharkey", "cleanup"],
+      "characters": ["frodo", "sam", "merry", "pippin"],
+      "content": "Returning home, the four hobbits found the Shire had been seized and industrialized by ruffians under the fallen wizard Saruman, who had come there for petty revenge. Merry and Pippin, now seasoned by war, roused the hobbits to rise up and drive the invaders out. Saruman was killed by his own abused servant Wormtongue, and the Shire was slowly restored."
+    },
+    {
+      "id": "grey_havens_frodo_departs",
+      "topics": ["grey havens", "frodo leaves", "undying lands", "sam", "wounds", "elves", "ending", "bilbo"],
+      "characters": ["frodo", "sam", "merry", "pippin", "gandalf", "bilbo"],
+      "content": "Though the Shire was healed, Frodo never fully recovered from his wounds and the burden of having carried the Ring. In time he chose to leave Middle-earth, sailing from the Grey Havens to the Undying Lands with Bilbo, Gandalf, and the last of the elves, to find peace. Sam, Merry, and Pippin saw him off. Sam returned home to his wife Rosie and their family, having become the one who truly carried the story onward."
+    },
+    {
+      "id": "samwise_the_loyal",
+      "topics": ["sam", "samwise", "loyalty", "rosie", "gardener", "mayor", "hero"],
+      "characters": ["sam", "frodo"],
+      "content": "Samwise Gamgee began as Frodo's gardener and became the true heart of the quest, never leaving Frodo's side from the Shire all the way to Mount Doom. He carried Frodo when his master could go no further and briefly bore the Ring himself without being consumed by it. After the war he married Rosie Cotton, raised a large family, and was elected Mayor of the Shire many times, living a long and honored life."
+    },
+    {
+      "id": "who_is_gandalf",
+      "topics": ["gandalf", "wizard", "maia", "istari", "grey", "white", "shadowfax"],
+      "characters": ["gandalf", "frodo", "sam", "aragorn"],
+      "content": "Gandalf was one of the Istari, wizards sent to Middle-earth as guides and counselors against Sauron rather than as rulers. He was in truth an ancient spirit clothed as an old man, wise and sometimes stern but deeply kind. Known first as Gandalf the Grey and later reborn as Gandalf the White, he rode the great horse Shadowfax and was a central architect of Sauron's downfall, working through the courage of others rather than through raw power."
+    }
+  ]
+}

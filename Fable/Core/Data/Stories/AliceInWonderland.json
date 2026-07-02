@@ -1,0 +1,120 @@
+
+{
+  "story": {
+    "id": "alice_in_wonderland",
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "summary": "A curious young girl named Alice follows a White Rabbit down a rabbit hole and tumbles into Wonderland, a nonsensical dream-world where she grows and shrinks, meets strange and eccentric creatures, and tries to make sense of a place that runs on its own absurd logic. Her journey leads her through a mad tea party and the court of the tyrannical Queen of Hearts before she wakes to find it was all a dream.",
+    "note": "Wonderland is episodic and dreamlike rather than a tight plot. Each chunk is a short, factual summary of an encounter or character. The 'topics' field is for keyword retrieval; the 'characters' field lists who is present or would know about the events, so you can filter to what the selected character could plausibly discuss. Alice appears in nearly every chunk since the whole story is seen through her experience. This file covers the first book only, not 'Through the Looking-Glass.'"
+  },
+  "chunks": [
+    {
+      "id": "who_is_alice",
+      "topics": ["alice", "girl", "curious", "protagonist", "child", "polite", "character"],
+      "characters": ["alice"],
+      "content": "Alice is a curious, imaginative young girl with a strong sense of politeness and fair play. She is bright and quick to reason, often talking to herself and trying to apply the ordinary logic of her world to a place where none of it applies. Though she grows frustrated with the rudeness and nonsense of Wonderland's creatures, she remains determined and brave. Her endless questions and wonder drive the whole adventure."
+    },
+    {
+      "id": "down_the_rabbit_hole",
+      "topics": ["rabbit hole", "white rabbit", "fall", "beginning", "watch", "late", "riverbank"],
+      "characters": ["alice", "white_rabbit"],
+      "content": "The adventure begins when Alice, bored on a riverbank, notices a White Rabbit hurrying past while muttering that he is late and checking a pocket watch. Astonished that a rabbit should own a watch, she chases after him and follows him down a large rabbit hole. She falls slowly for a very long time, drifting past shelves and cupboards, until she lands gently at the bottom in a strange hallway. This is her entry into Wonderland."
+    },
+    {
+      "id": "drink_me_eat_me",
+      "topics": ["drink me", "eat me", "growing", "shrinking", "size", "bottle", "cake", "potion"],
+      "characters": ["alice"],
+      "content": "In a hall full of locked doors, Alice finds a tiny golden key and a small door leading to a beautiful garden, but she is far too big to fit through it. She discovers a bottle labeled 'DRINK ME' that shrinks her, and later a cake labeled 'EAT ME' that makes her grow enormous. Throughout Wonderland her size keeps changing wildly, leaving her struggling to be the right height for anything. These transformations reflect the confusion of not knowing who or what she is."
+    },
+    {
+      "id": "pool_of_tears",
+      "topics": ["pool of tears", "crying", "giant", "swimming", "mouse", "flooding"],
+      "characters": ["alice"],
+      "content": "While enormous, Alice weeps such huge tears that they form a great pool across the floor. When she later shrinks again, she finds herself swimming in this pool of her own tears. She is joined by a Mouse and various other creatures who have also fallen in. Together they swim to shore, beginning one of the many odd gatherings of Wonderland's inhabitants."
+    },
+    {
+      "id": "caucus_race",
+      "topics": ["caucus race", "dodo", "drying off", "race", "prizes", "nonsense", "birds"],
+      "characters": ["alice"],
+      "content": "Soaked from the pool of tears, Alice and the assembled creatures need to get dry. A Dodo proposes a 'Caucus-race,' in which everyone runs about in whatever direction they like, with no clear start or finish, and stops whenever they please. When it ends, the Dodo declares that everybody has won and all must have prizes. Alice ends up providing the prizes from her own pocket, a first taste of Wonderland's cheerful absurdity."
+    },
+    {
+      "id": "the_caterpillar",
+      "topics": ["caterpillar", "mushroom", "hookah", "who are you", "advice", "blue", "smoking"],
+      "characters": ["alice", "caterpillar"],
+      "content": "Alice meets a blue Caterpillar sitting on a mushroom and calmly smoking a hookah. He questions her sharply, asking 'Who are you?' which she finds hard to answer since she has changed so many times that day. The Caterpillar is aloof and contradictory, but before crawling away he gives her useful advice: eating one side of the mushroom will make her grow taller, and the other side will make her shorter. Alice uses this to control her size for the rest of her journey."
+    },
+    {
+      "id": "the_duchess_and_baby",
+      "topics": ["duchess", "baby", "pig", "cook", "pepper", "kitchen", "chaos"],
+      "characters": ["alice", "duchess", "cheshire_cat"],
+      "content": "Alice visits the house of the Duchess, a fierce and disagreeable woman, and finds the kitchen full of pepper that makes everyone sneeze. The cook hurls pots and pans about, and the Duchess roughly nurses a howling baby while singing it a violent lullaby. She thrusts the baby at Alice and leaves to play croquet with the Queen. When Alice takes the baby outside, it gradually turns into a pig and trots away into the woods."
+    },
+    {
+      "id": "the_cheshire_cat",
+      "topics": ["cheshire cat", "grin", "vanishing", "directions", "mad", "smile", "tree"],
+      "characters": ["alice", "cheshire_cat"],
+      "content": "Alice encounters the Cheshire Cat, a creature with an enormous, permanent grin who can appear and disappear at will, sometimes fading away until only its smile remains. Unlike most of Wonderland's inhabitants, the Cat is calm and oddly philosophical. It cheerfully informs Alice that everyone in Wonderland is mad, including itself and her. It also points her toward the Mad Hatter and the March Hare, and later reappears at key moments to comment on events."
+    },
+    {
+      "id": "mad_tea_party",
+      "topics": ["mad hatter", "march hare", "dormouse", "tea party", "riddle", "time", "unbirthday"],
+      "characters": ["alice", "mad_hatter", "march_hare", "dormouse"],
+      "content": "Alice comes upon a never-ending tea party attended by the Mad Hatter, the March Hare, and a sleepy Dormouse. Because the Hatter has quarreled with Time, it is always six o'clock and forever tea-time for them. They pose the famous unanswerable riddle 'Why is a raven like a writing-desk?' and speak in puns, nonsense, and rude interruptions. Alice grows exasperated by their bad manners and eventually leaves the maddening party in disgust."
+    },
+    {
+      "id": "the_mad_hatter",
+      "topics": ["mad hatter", "hatter", "tea", "riddle", "time", "hat", "eccentric"],
+      "characters": ["alice", "mad_hatter", "march_hare", "dormouse"],
+      "content": "The Mad Hatter is one of Wonderland's most memorable figures, a wildly eccentric character in a large hat who hosts the endless tea party. He speaks in riddles and nonsense and is fixated on time, which he treats as a person he has fallen out with. He is rude, whimsical, and unpredictable, delighting in confusing Alice. He later appears as a nervous witness at the Queen's trial."
+    },
+    {
+      "id": "queen_of_hearts",
+      "topics": ["queen of hearts", "off with their heads", "tyrant", "croquet", "cards", "temper", "king"],
+      "characters": ["alice", "queen_of_hearts"],
+      "content": "The Queen of Hearts is the tyrannical ruler of Wonderland, famous for screaming 'Off with their heads!' at the slightest annoyance. She is quick-tempered, unreasonable, and feared by all her subjects, who are living playing cards. Her mild-mannered husband, the King of Hearts, quietly pardons many of the people she condemns. Despite her constant death sentences, very few are actually carried out."
+    },
+    {
+      "id": "painting_the_roses",
+      "topics": ["playing cards", "roses", "painting", "gardeners", "white roses", "red paint", "queen"],
+      "characters": ["alice", "queen_of_hearts"],
+      "content": "In the Queen's garden, Alice finds three card gardeners frantically painting white roses red. They explain that they planted a white rose bush by mistake instead of a red one, and if the Queen discovers the error she will have them beheaded. When the Queen arrives and sees what they have done, she orders their execution in a fury, though the sentence, like most of hers, is quietly avoided in the chaos that follows."
+    },
+    {
+      "id": "the_croquet_game",
+      "topics": ["croquet", "flamingo", "hedgehog", "queen", "game", "chaos", "mallets"],
+      "characters": ["alice", "queen_of_hearts", "cheshire_cat"],
+      "content": "The Queen invites Alice to a bizarre game of croquet where live flamingos are used as mallets and hedgehogs as balls, with card soldiers bending over to form the hoops. The game is impossible to play because all the equipment keeps wandering off and no one follows any rules. The Queen storms about ordering executions throughout. During the game the Cheshire Cat appears and causes a dispute about whether a grinning head with no body can be beheaded."
+    },
+    {
+      "id": "mock_turtle_and_gryphon",
+      "topics": ["mock turtle", "gryphon", "story", "school", "lobster quadrille", "sad", "sea"],
+      "characters": ["alice", "mock_turtle", "gryphon"],
+      "content": "The Queen sends Alice off with the Gryphon to meet the Mock Turtle, a melancholy creature who is always weeping. The Mock Turtle tells the story of his education under the sea, full of punning nonsense subjects, and he and the Gryphon perform a strange dance called the Lobster Quadrille. Their tearful, absurd tales are interrupted when a trial is announced back at the Queen's court. This encounter is among the most whimsical and wistful in Alice's journey."
+    },
+    {
+      "id": "the_trial",
+      "topics": ["trial", "knave of hearts", "stolen tarts", "court", "witnesses", "jury", "verdict"],
+      "characters": ["alice", "queen_of_hearts", "mad_hatter", "white_rabbit"],
+      "content": "The story climaxes with the trial of the Knave of Hearts, accused of stealing the Queen's tarts, with the White Rabbit acting as herald. The court is a farce: the King serves as an incompetent judge, the jury is made of confused animals, and the Queen demands the verdict before any evidence is heard. Alice, growing back to her full size, begins to lose patience with the nonsense and openly defies the Queen. When the Queen orders her beheaded, Alice declares that they are nothing but a pack of cards."
+    },
+    {
+      "id": "waking_up",
+      "topics": ["dream", "waking up", "ending", "sister", "cards", "flying", "riverbank"],
+      "characters": ["alice"],
+      "content": "As the whole pack of cards rises up and flies at her, Alice wakes to find herself back on the riverbank with her sister, her head in her lap. The entire adventure in Wonderland was a dream. Her sister listens to the strange tale and afterward muses about the wonderful dream-world Alice has described. The story ends gently, back in the ordinary waking world."
+    },
+    {
+      "id": "the_white_rabbit",
+      "topics": ["white rabbit", "watch", "late", "herald", "duchess", "gloves", "nervous"],
+      "characters": ["alice", "white_rabbit"],
+      "content": "The White Rabbit is the anxious, well-dressed creature whose hurrying first lures Alice into Wonderland. Forever fretting that he is late and consulting his pocket watch, he serves as a servant and herald in the Queen's court. He is timid and fussy, easily flustered, and once mistakes Alice for his housemaid and sends her to fetch his gloves and fan. He reappears throughout the story, including as the announcer at the Knave's trial."
+    },
+    {
+      "id": "nonsense_and_logic",
+      "topics": ["nonsense", "logic", "wonderland", "rules", "absurd", "dream logic", "theme"],
+      "characters": ["alice", "cheshire_cat", "mad_hatter", "caterpillar"],
+      "content": "Wonderland runs entirely on its own dream-logic, where cause and effect, size, time, and manners all behave unpredictably. The creatures speak in riddles, puns, and circular arguments that frustrate Alice's attempts to reason sensibly. Much of the story's charm comes from Alice, a sensible child, trying to navigate a world that refuses to make sense. The nonsense is not random but a playful inversion of the rigid rules and lessons of the ordinary Victorian world Alice comes from."
+    }
+  ]
+}

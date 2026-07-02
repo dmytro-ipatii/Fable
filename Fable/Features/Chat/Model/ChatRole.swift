@@ -7,5 +7,5 @@
 
 enum ChatRole: String {
     case user
-    case assistant
+    case character
 }
